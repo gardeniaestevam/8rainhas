@@ -21,6 +21,14 @@ os possíveis pais de uma nova população a partir de uma função fitness. Ap�
 
 Diferente da Subida na Encosta, conseguem fugir de mínimos e máximos locais porque conseguem explorar uma ampla variedade de soluções possíveis. 
 
+### Conteúdo 📖
+Arquivo   | Conteúdo
+:---------: | :------:
+main.py | Arquivo principal que contém um menu básico onde se pode escolher o método que usarei, número máximo de iterações, tamanho da população e o número da taxa de mutação e ver se com essas informações consegui ou não chegar em uma solução
+individuo.py | Classe do indivíduo, possuindo os atributos id, board, generation e fitness
+genetico.py | Contém o algoritmo genético
+subida.py | Contém o algoritmo da subida na encosta
+
 ### O que aprendi? 🤓 
 Pude colocar em prática conhecimos que estava vendo em sala e observar como as técnicas aprendidas funcionam, ajudando na fixação dos conteúdos. Também comecei a me interessar pelo assunto, me atraiu e quem sabe
 posso ampliar meus conhecimentos futuramente!
